@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there, i'm Saro 👋
+🔭 Blockchain, Cryptography, Distributed Protocols
+📫 How to reach me: saro.sadeghi82@gmail.com,t.me/saro_one
 
-<!--
-**saro-sadeghi/saro-sadeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+technical skills list:
+- Bitcoin (protocol level)
+- Ethereum (protocol level)
+- Solidity, Openzeppelin, Harhat, Foundry
+- DeFi
+- Ecdsa
+- zero knowledge proof
+- Circom
+- P2P networks
+- Distributed systems engineering
