@@ -1,7 +1,7 @@
 Hi there, i'm Saro 👋
-🔭 Blockchain, Cryptography, Distributed Protocols
-📫 How to reach me: saro.sadeghi82@gmail.com,
-https://t.me/saro_one
+- 🔭 Blockchain, Cryptography, Distributed Protocols
+- 📫 How to reach me: saro.sadeghi82@gmail.com,
+- 💬 Telegram: https://t.me/saro_one
 
 technical skills list:
 - Bitcoin (protocol level)
