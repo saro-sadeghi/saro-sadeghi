@@ -1,5 +1,5 @@
 Hi there, i'm Saro 👋
-- 🔭 Machine learning , lockchain, Cryptography, Distributed Protocols
+- 🔭 Machine learning , Blockchain, Cryptography, Distributed Protocols
 - 📫 How to reach me: saro.sadeghi82@gmail.com,
 - 💬 Telegram: https://t.me/saro_one
 
