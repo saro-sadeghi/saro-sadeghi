@@ -6,6 +6,7 @@ Hi there, i'm Saro 👋
 technical skills list:
 - Machine learning
 - Deep learning
+- Cryptography
 - PyTorch , TensorFlow
 - Bitcoin (protocol level)
 - Ethereum (protocol level)
