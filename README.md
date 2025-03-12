@@ -7,9 +7,9 @@ technical skills list:
 - Machine learning
 - Deep learning
 - Cryptography
-- PyTorch , TensorFlow
+- PyTorch
 - Bitcoin (protocol level)
 - Ethereum (protocol level)
-- Solidity, Openzeppelin, Harhat,
+- Solidity
 - Ecdsa
 - Distributed systems engineering
